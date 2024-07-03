@@ -1,17 +1,21 @@
-# crypto
+<div align="center">
+  <h1>UAS MOBILE PROGRAMMING</h1>
+</div><br>
 
-A new Flutter project.
 
-## Getting Started
+## Special Tag
 
-This project is a starting point for a Flutter application.
+[@adeputraprimasuhendri](https://github.com/adeputraprimasuhendri)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# UAS_2024_211011400204_MUHAMMAD-FAISAL" 
+<br><br><br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Maintenance-yes-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/salsyns/cuacata?style=for-the-badge&color=orange" alt="Fork">
+  <img src="https://img.shields.io/github/stars/salsyns/cuacata?style=for-the-badge&color=yellow" alt="Stars">
+  <img src="https://img.shields.io/github/watchers/salsyns/cuacata?style=for-the-badge&color=green" alt="Watch">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/VSCode-1.89.1-blue?logo=visual-studio-code&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Windows-10-blue?logo=windows&logoColor=white&style=for-the-badge">
+</div>
